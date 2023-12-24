@@ -15,4 +15,4 @@
 - tensorflow==2.14.0
 - openCV==4.8.0
 ## Result for use YOLOv8 detection:
-https://github.com/PhamDangNguyen/My_thesis/issues/2#issue-2054979769
+https://github.com/PhamDangNguyen/My_thesis/issues/3#issue-2054980326
